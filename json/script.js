@@ -1,7 +1,7 @@
 // let mahasiswa = {
-//     nama: "Riri febriani",
-//     nim: "2217020047",
-//     email: "ririfeb22@gmail.com"
+//     nama: "Lathifah Hanum",
+//     nim: "2217020154",
+//     email: "hanumlathifah006@gmail.com"
 
 // }
 // console.log(JSON.stringify(mahasiswa));
