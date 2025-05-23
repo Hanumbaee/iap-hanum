@@ -1,0 +1,34 @@
+[
+{
+    "nama": "Lathifah Hanum",
+    "umur":21,
+    "nim": "2217020154",
+    "lulus": true,
+    "hobby": [
+        "reading",
+        ""
+
+    ],
+    "pembimbing" : {
+        "pembimbing1": "doddy ferdiansyah",
+        "pembimbing2": "erik doank"
+    }
+
+},
+{
+    "nama": "Riri Febriani",
+    "umur":21,
+    "nim": "2217020047",
+    "lulus": true,
+    "hobby": [
+        "cooking",
+        "reading"
+
+    ],
+    "pembimbing" : {
+        "pembimbing1": "doddy ferdiansyah",
+        "pembimbing2": "erik doank"
+    }
+
+}
+]
