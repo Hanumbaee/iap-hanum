@@ -7,7 +7,7 @@ $client = new Client();
 
 $response = $client->request('GET', 'http://omdbapi.com', [
     'query' => [
-        'apikey' => 'd4634c22',
+        'apikey' => '8d2d7f52',
         's' => 'transformers'
     ]
 ]);
