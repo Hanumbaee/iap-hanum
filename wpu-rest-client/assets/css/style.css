@@ -1,0 +1,66 @@
+.badge {
+  margin-left: 3px;
+}
+
+body {
+  margin-top: 50px;
+}
+
+.jumbotron img {
+  width: 25%;
+}
+
+section {
+  min-height: 420px;
+}
+
+footer {
+  min-height: 50px;
+  padding-top: 12px;
+}
+
+/* Tambahkan ini ke dalam <head> */
+#portfolio {
+  background: #f5f3ef; /* soft beige */
+  padding: 60px 0;
+}
+
+#portfolio h2 {
+  font-weight: 600;
+  color: #7b5e47; /* coklat lembut */
+}
+
+.portfolio .card {
+  border: none;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 10px 25px rgba(123, 94, 71, 0.15); /* bayangan coklat susu */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.portfolio .card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 16px 30px rgba(123, 94, 71, 0.25); /* bayangan hover */
+}
+
+.portfolio .card-img-top {
+  height: 200px;
+  object-fit: cover;
+  border-bottom: 4px solid #d2b48c; /* tan soft (coksu lembut) */
+}
+
+.portfolio .card-body {
+  background-color: #fdf9f4; /* light cream / milk white */
+  text-align: center;
+}
+
+.portfolio .card-text {
+  font-size: 0.95rem;
+  color: #7b5e47; /* coklat soft untuk teks */
+}
+
+.img-fluid {
+  border-radius: 200px;
+  max-height: 200px;
+  object-fit: cover;
+}
