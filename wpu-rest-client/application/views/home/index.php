@@ -1,7 +1,7 @@
 <div class="jumbotron" id="home">
       <div class="container">
         <div class="text-center">
-          <img src="<?= base_url(); ?>assets/img/profile3.png" class="rounded-circle img-thumbnail">
+          <img src="<?= base_url(); ?>assets/img/profile3.png" class="rounded-circle img-thumbnail" width="200">
           <h1 class="display-4">Lathifah Hanum</h1>
           <h3 class="lead">Student | Analyst | Art</h3>
         </div>
